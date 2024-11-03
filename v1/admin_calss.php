@@ -1,5 +1,5 @@
 <?php
-
+//Removed
 class DB{
     private $host;
     private $username;
